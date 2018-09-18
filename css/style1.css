@@ -157,3 +157,8 @@
 	.myWork{
 width: 70%;
 	}
+	.language{
+		font-size: 15px;
+	}
+	.myL{font-size: 30px;}
+	.code-box{margin-bottom: 10px;}
