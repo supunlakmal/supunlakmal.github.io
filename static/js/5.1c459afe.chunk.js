@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_app=this.webpackJsonpreact_app||[]).push([[5],{12:function(e,c,t){"use strict";t.r(c);t(1);var s=t(0);c.default=function(){return Object(s.jsx)("header",{className:"masthead",children:Object(s.jsx)("div",{className:"container d-flex h-100 align-items-center",children:Object(s.jsxs)("div",{className:"mx-auto text-center",children:[Object(s.jsxs)("h1",{className:"mx-auto my-0",children:["Hello, I'm ",Object(s.jsx)("br",{})," Supun"]}),Object(s.jsx)("h4",{children:"Full Stack Developer"})]})})})}}}]);
+//# sourceMappingURL=5.1c459afe.chunk.js.map
