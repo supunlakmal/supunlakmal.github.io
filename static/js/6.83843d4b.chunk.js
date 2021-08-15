@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_app=this.webpackJsonpreact_app||[]).push([[6],{26:function(t,e,a){"use strict";a.r(e);a(1);var c=a(0);e.default=function(){return Object(c.jsx)("footer",{className:"footer bg-black small text-center text-white-50",children:Object(c.jsx)("div",{className:"container",children:"Copyright \xa9 Supun Lakmal 2021"})})}}}]);
+//# sourceMappingURL=6.83843d4b.chunk.js.map
